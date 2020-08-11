@@ -18,6 +18,9 @@ public class GitTest {
         System.out.println("githup添加代码");
         int a = 20;
         int b = 20;
+        for (int i = 0; i < 200; i++) {
+            System.out.println(i);
+        }
     }
 
 }
