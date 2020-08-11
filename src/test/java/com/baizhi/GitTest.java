@@ -18,6 +18,8 @@ public class GitTest {
         System.out.println("githup添加代码");
         int a = 20;
         int b = 20;
+        System.out.println("b = " + b);
+        System.out.println("a = " + a);
     }
 
 }
