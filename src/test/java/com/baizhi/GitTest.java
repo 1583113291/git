@@ -12,6 +12,8 @@ public class GitTest {
     @Test
     public void contextLoads() {
         System.out.println();
+        System.out.println("====");
+        System.out.println("dev");
     }
 
 }
