@@ -15,6 +15,7 @@ public class GitTest {
         System.out.println("====");
         System.out.println("dev");
         System.out.println("dev1");
+        System.out.println("githup添加代码");
     }
 
 }
